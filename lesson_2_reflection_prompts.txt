@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
     
     git create a hidden file/repository to track all changes
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	it is a buffer only for files which you want to define as a commit at the next stage
+	
